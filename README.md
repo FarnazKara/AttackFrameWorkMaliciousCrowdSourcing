@@ -8,6 +8,31 @@ Paper: Crowdsourcing under Data Poisoning Attacks: A Comparative Study
 Project Structure:
 The main files of the project are as follows:
 
+Untargeted: 
+	Generating malicious workers: 
+		prepareAdvData.py
+			Input: 
+
+			Output: 
+			
+Targeted:
+
+
+
+
+
+* For Targeted attack : 
+
+* For Hueristic: 
+Evaluationprogram.py (mv, ds, bcc)
+C:\Users\x1\Documents\Farnaz\Research\Evaluation\mv\MVHard\data\product\Targeted_modified\result_Nov_2019\Averages
+KOS, mv-hard, mv-soft
+LAAS
+PM 
+
+* timization: 
+Targeted: 
+
 
 
 Program Usage:
